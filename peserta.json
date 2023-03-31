@@ -19,9 +19,9 @@
       "name": "Mardhani Dwi Novianto",
       "kelas": "C",
       "kabupaten": "Purworejo"
-     }, 
+    },
     {
-    "name": "Regi Ridho Biyantomo",
+      "name": "Regi Ridho Biyantomo",
       "kelas": "C",
       "kota": "Pontianak"
     },
@@ -51,16 +51,21 @@
       "kota": "Jakarta"
     },
     {
-      "name" : "Aris Hariyanto",
+      "name": "Aris Hariyanto",
       "kelas": "C",
-      "kota" : "Lampung Selatan"
+      "kota": "Lampung Selatan"
+    },
+    {
+      "name": "Alfitra Fadjri",
+      "kelas": "C",
+      "kota": "Bekasi"
     },
     {
       "name": "Muhammad Azhar Rizki",
       "kelas": "C",
       "kota": "Klaten"
-     },
-     {
+    },
+    {
       "name": "Lukby Kiyad Prihatini",
       "kelas": "C",
       "kota": "Makassar"
@@ -74,7 +79,7 @@
       "name": "Imam Zuhdi",
       "kelas": "C",
       "kota": "Pariaman"
-     },
+    },
     {
       "name": "Fitri Azzah Nur'aini",
       "kelas": "C",
