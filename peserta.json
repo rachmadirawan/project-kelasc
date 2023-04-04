@@ -71,6 +71,11 @@
       "kota": "Sleman"
     },
     {
+      "name": "Bayu Khoerul Mizan",
+      "kelas": "C",
+      "kota": "Tegal"
+    },
+    {
       "name": "Imam Zuhdi",
       "kelas": "C",
       "kota": "Pariaman"
@@ -80,9 +85,30 @@
       "kelas": "C",
       "kota": "Semarang"
     },
-   {
-    "name": "Elsa Alviyani",
-    "kelas" : "C",
-    "kota" : "Jakarta"
-   }]
+    {
+      "name": "Ngarapdat manik",
+      "kelas": "C",
+      "kota": "Medan"
+    },
+    {
+      "name": "Bayu Khoerul Mizan",
+      "kelas": "C",
+      "kota": "Tegal"
+    },
+    {
+      "name": "Salwa Cendikia Millantika",
+      "kelas": "C",
+      "kota": "Bandung"
+    },
+    {
+      "name": "Hendri Susilo",
+      "kelas": "C",
+      "kabupaten": "Purbalingga"
+    },
+    {
+      "name": "Elsa Alviyani",
+      "kelas" : "C",
+      "kota" : "Jakarta"
+     }
+  ]
 }
