@@ -104,6 +104,11 @@
       "name": "Hendri Susilo",
       "kelas": "C",
       "kabupaten": "Purbalingga"
-    }
+    },
+    {
+      "name": "Elsa Alviyani",
+      "kelas" : "C",
+      "kota" : "Jakarta"
+     }
   ]
 }
