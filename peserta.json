@@ -79,8 +79,10 @@
       "name": "Fitri Azzah Nur'aini",
       "kelas": "C",
       "kota": "Semarang"
-    }
+    },
    {
-    "name": "Elsa Alviyani"
-    "kelas" : "C"
+    "name": "Elsa Alviyani",
+    "kelas" : "C",
     "kota" : "Jakarta"
+   }]
+}
